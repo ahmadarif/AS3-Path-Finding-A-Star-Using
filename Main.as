@@ -1,6 +1,6 @@
-package com.arif019.artificialintelligent.pathfinding.astar 
+package  
 {
-	import com.arif019.artificialintelligent.pathfinding.astar.Tiles;
+	import Tiles;
 	import flash.desktop.NativeApplication;
 	import flash.display.StageDisplayState;
 	import flash.events.Event;
