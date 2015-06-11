@@ -1,6 +1,5 @@
 package  
 {
-	import Tiles;
 	import flash.desktop.NativeApplication;
 	import flash.display.StageDisplayState;
 	import flash.events.Event;
@@ -336,4 +335,12 @@ package
 		}
 	}
 	
+}
+
+class Tiles
+{
+	public var walkable:Boolean;
+	public var startPoint:Boolean;
+	public var endPoint:Boolean;
+	public var visited:Boolean;
 }
